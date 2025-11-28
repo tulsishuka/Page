@@ -1,16 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cancer Awareness & Support 🌊💙
+```
+A responsive and modern React web page built with Vite and Tailwind CSS to promote cancer awareness, inspire hope, and provide support.
+```
+Features
+```
+Hero Section with gradient background and call-to-action button
 
-Currently, two official plugins are available:
+Contact Form: Name, Email, Message (no backend)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Inspirational Quotes fetched from a public API
 
-## React Compiler
+Responsive design for mobile, tablet, and desktop
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean blue-themed UI
+```
 
-## Expanding the ESLint configuration
+Tech Stack
+```
+React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite
+
+Tailwind CSS
+
+Public API for quotes: https://type.fit/api/quotes
+
+Project Setup
+
+Clone the repository:
+
+git clone https://github.com/<your-username>/cancer-awareness.git
+cd cancer-awareness
+```
+<img width="1887" height="865" alt="Screenshot 2025-11-28 112727" src="https://github.com/user-attachments/assets/44c79733-c9a8-4fc6-9b3e-50fde076ba24" />
+
+```
+Your Name – Aspiring Full-Stack Developer
+```
